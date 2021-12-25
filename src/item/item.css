@@ -1,0 +1,24 @@
+img{
+    width: 140px;
+    position: relative;
+}
+
+.bundle{
+    position: relative;
+    left: 10%;
+    top:40%;
+}
+
+.allItems{
+    position: absolute;
+    list-style: none;
+    top: 35%;
+    left: 20%;
+}
+
+
+.allItems li{
+    float: left;
+    margin-right: 100px;
+
+}

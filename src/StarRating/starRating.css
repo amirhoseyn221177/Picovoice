@@ -1,0 +1,17 @@
+.startButton{
+    display: none;
+}
+
+
+.star{
+    position: relative;
+    font-size: 30px;
+    color: gold;
+}
+
+
+.star:hover{
+    transform: scale(0.8);
+}
+
+
